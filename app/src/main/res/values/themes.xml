@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFBB86FC</item>
+        <item name="android:statusBarColor">#FFBB86FC</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WellBeing</string>
+    <string name="accessibility_service_label">Wellbeing Enforcement</string>
+    <string name="accessibility_service_description">Used to detect foreground apps and show usage limit overlays.</string>
+    <string name="tile_focus_mode">Focus Mode</string>
+    <string name="tile_bedtime_mode">Bedtime</string>
+</resources>
