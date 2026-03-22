@@ -1,6 +1,6 @@
-# Wellbeing Android Clone
+# Wellbeing Android 
 
-Production-grade Digital Wellbeing clone built with Kotlin and Jetpack Compose.
+Production-grade Digital Wellbeing built with Kotlin and Jetpack Compose.
 
 ## Architecture
 - MVVM + Clean Architecture
